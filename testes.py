@@ -1,4 +1,3 @@
-n1 = float(input('Escolha um número: '))
-n2 = float(input('Escolha outro número: '))
+nome = str(input('Qual o seu nome?: '))
 
-print('A média dos dois números é', (n1 + n2)/2)
+print(f'Prazer em te conhecer {nome:>20}')
