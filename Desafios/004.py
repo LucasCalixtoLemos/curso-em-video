@@ -9,6 +9,3 @@ print('A sua escolha faz parte do alfabeto?', n.isalpha())
 print('A sua escolha está em maiúsculo?', n.isupper())
 print('A sua escolha está em minúsculo?', n.islower())
 print('A sua escolha está capitalizada?', n.istitle())
-
-
-
